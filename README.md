@@ -1,6 +1,10 @@
 ### Olá, eu sou o Jair Barbosa! 🤓
-![Jair GitHub stats](https://github-readme-stats.vercel.app/api?username=devbarbosantana&show_icons=true&theme=tokyonight)
-
+<div>
+  <a href="https://github.com/devbarbosantana">
+  <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=devbarbosantana&show_icons=true&theme=tokyonight" />
+  <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbarbosantana&layout=compact&theme=tokyonight" />
+</div>
+    
 ## Redes 🌐:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jair-barbosa-santana-a17006227)
@@ -16,7 +20,5 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbarbosantana&layout=compact)
 
 Formado em Desenvolvimento de Sistemas pela ETE Porto Digital & Cursando Ciências da Computação pela UFRPE.
