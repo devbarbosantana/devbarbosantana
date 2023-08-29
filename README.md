@@ -1,7 +1,7 @@
 ### Olá, eu sou o Jair Barbosa! 🤓
 <div>
   <a href="https://github.com/devbarbosantana">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=devbarbosantana&show_icons=true&theme=prussian&include_all_commits=true&count_privte=true" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=devbarbosantana&show_icons=true&theme=prussian&count_privte=true&rank_icon=github" />
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbarbosantana&layout=compact&theme=prussian&include_all_commits=true&count_privte=true" />
 </div>
     
