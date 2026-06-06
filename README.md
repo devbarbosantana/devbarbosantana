@@ -1,8 +1,8 @@
-# Olá, eu sou o Jair Barbosa! 🤓
-<div>
+<h1 align="center"> Olá, eu sou o Jair Barbosa! 💻</h1>
+
+<div align="center">
   <a href="https://github.com/devbarbosantana">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=devbarbosantana&show_icons=true&theme=prussian&rank_icon=github" />
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbarbosantana&layout=compact&theme=prussian&include_all_commits=1" />
+  <img height= "180em" src="https://streak-stats.demolab.com/?user=devbarbosantana&show_icons=true&theme=prussian&rank_icon=github" />
 </div>
     
   <!--
@@ -11,11 +11,19 @@
   2. https://dev.to/envoy_/150-badges-for-github-pnk
   -->
     
-## Redes 🌐:
+<h2 align="center"> Redes 🌐:</h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jair-barbosa-santana-a17006227/)
-[![Instagam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jairbarbosantana/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jair.barbosasantana/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jair-barbosa-santana-a17006227/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jairbarbosantana/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/jair.barbosasantana/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
 <div style="display: inline_block"><br/>
   
